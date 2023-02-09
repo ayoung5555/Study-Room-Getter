@@ -1,2 +1,2 @@
 # Study-Room-Getter
-Reserves study room of choice automatically a week in advance
+Reserves a UMich library study room of choice automatically a week in advance. 
